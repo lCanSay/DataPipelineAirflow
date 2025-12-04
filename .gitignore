@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+data/*.db
+data/*.csv
+.playwright/
+.env
+src/__pycache__
+airflow_home/
